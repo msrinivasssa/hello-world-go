@@ -1,0 +1,15 @@
+accelerator:
+  displayName: new-accelerator
+  description: Hello World Program in Go
+  iconUrl: https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F05%2FGo_Logo_Blue.svg%2F1280px-Go_Logo_Blue.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AGo_Logo_Blue.svg&tbnid=GbPwP-3UExMWSM&vet=12ahUKEwihwL68w4XyAhVOg0sFHSvgBX0QMygAegUIARDNAQ..i&docid=v7FSRXPSZcD65M&w=1280&h=481&q=go%20logo&ved=2ahUKEwihwL68w4XyAhVOg0sFHSvgBX0QMygAegUIARDNAQ
+  tags:
+  - Go
+  - cnr
+  options:
+  - name: optionName
+    label: Nice Label
+    display: true
+    defaultValue: ""
+engine:
+  include:
+  - '**'
